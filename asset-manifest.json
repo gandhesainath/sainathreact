@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sainathreact/static/css/main.f855e6bc.css",
-    "main.js": "/sainathreact/static/js/main.60cffd51.js",
+    "main.js": "/sainathreact/static/js/main.1637b3e8.js",
     "index.html": "/sainathreact/index.html",
     "main.f855e6bc.css.map": "/sainathreact/static/css/main.f855e6bc.css.map",
-    "main.60cffd51.js.map": "/sainathreact/static/js/main.60cffd51.js.map"
+    "main.1637b3e8.js.map": "/sainathreact/static/js/main.1637b3e8.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.60cffd51.js"
+    "static/js/main.1637b3e8.js"
   ]
 }
